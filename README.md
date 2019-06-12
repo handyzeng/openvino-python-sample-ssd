@@ -1,0 +1,1 @@
+# openvino-python-sample-ssd
